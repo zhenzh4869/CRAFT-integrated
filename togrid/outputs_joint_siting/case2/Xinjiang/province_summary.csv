@@ -1,0 +1,3 @@
+﻿province,sector,wind_land_capacity_mw,pv_capacity_mw,wind_offshore_capacity_mw,wind_total_capacity_mw,wind_land_generation_mwh,pv_generation_mwh,wind_offshore_generation_mwh,wind_total_generation_mwh,active_land_grid_count,active_offshore_grid_count,generation_cost_total,transmission_cost_total,fixed_cost_total,objective_total
+Xinjiang,power,185931.6464818779,203467.9008978977,0,185931.6464818779,430129945.14776736,291228550.2378744,0,430129945.14776736,37,0,239288686876.6575,12222177243.19405,500000000.0,252010864119.8513
+Xinjiang,chem,24160.146957552923,138808.2895094786,0,24160.146957552923,56317721.96752913,212941482.77688363,0,56317721.96752913,13,0,239288686876.6575,12222177243.19405,500000000.0,252010864119.8513

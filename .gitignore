@@ -1,0 +1,8 @@
+# Local Python environment and generated caches
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Exceeds GitHub's 100 MB per-file limit
+togrid/all_data.csv
